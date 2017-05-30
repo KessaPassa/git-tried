@@ -1,0 +1,4 @@
+gitとgithubの違いについて
+git　上書き地点を保存
+
+github  gitを呼び出す
